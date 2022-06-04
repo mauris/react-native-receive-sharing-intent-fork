@@ -1,1 +1,0 @@
-../../../../../../ios/ReceiveSharingIntent-Bridging-Header.h
